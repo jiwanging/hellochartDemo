@@ -26,6 +26,7 @@ import android.widget.Button;
 
 public class HelloChartActivity extends Activity implements OnClickListener{
 
+//20200201
 	private Button btn_addData;
 	private ColumnChartData mColumnChartData;//´æÊý¾Ý
 	private ColumnChartView mColumnChartView;//chartÊµÀý
